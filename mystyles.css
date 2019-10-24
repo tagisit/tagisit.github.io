@@ -1,0 +1,74 @@
+
+nav { float: left;
+	width: 150px;
+	padding: 10px; }
+
+ul {
+  list-style-image: url("ulpotato.png");
+		
+}
+
+
+ts {
+  text-shadow: 10px 10px 6px #663300;
+}
+
+
+main { margin-left: 160px;
+	padding: 10px;}
+	
+
+
+ }
+
+a:link {
+  color: #ffff99;
+}
+
+/* visited link */
+a:visited {
+  color: #ffff99;
+}
+
+/* mouse over link */
+a:hover {
+  color: #ffff99;
+}
+
+/* selected link */
+a:active {
+  color: #ffff99;
+}
+
+body { background-image:url("potatoes-1920x1080p.jpg"); 
+	background-repeat: repeat-n; 
+	background-attachment: fixed; }
+
+div {
+  background-image:url("background.jpeg");
+  opacity: 0.9;
+  filter: Alpha(opacity=90); }
+
+#wrapper { width: 80%;
+		margin-left: auto;
+		margin-right: auto;
+		background-color: #996633; }
+
+textc { 
+ color: #ffff99; 
+} 
+
+
+Header { background-color: #ffffff00; }
+
+
+}
+
+h1 { margin: 0;
+	padding: 5px; }
+
+footer { text-align: center;
+	font-style: italic;
+	
+	clear: both; }
+	
